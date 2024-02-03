@@ -1,3 +1,4 @@
+## npri-tools
 The npri-tools project contextualizes publicly-available information relevant to addressing environmental racism in Canada.
 
 ## Motivation
