@@ -1,3 +1,4 @@
+## npri-tools
 The npri-tools project contextualizes publicly-available information relevant to addressing environmental racism in Canada. It contributes to initiatives such as Canada's Bill C-226 by prototyping what a data infrastructure for it might look like.
 
 ## Tools
