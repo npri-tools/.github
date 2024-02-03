@@ -24,6 +24,7 @@ We are asking a variety of questions:
 - What do researchers, policy-makers, and public and community groups need to know about the pollutants reported being released to the air, water, and land where they live?
 - What can existing publicly-available information tell us and what can't it?
 - How can we connect communities with similar "profiles" - emissions, industries, and socio-economics?
+
 Concretely, the tools we've built are meant to answer questions such as:
 - What NPRI-reporting facilities are near where I live?
 - What are the socio-economic characteristics of this place, as measured by the Census?
