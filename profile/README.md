@@ -1,5 +1,5 @@
 ## npri-tools
-The npri-tools project contextualizes publicly-available information relevant to addressing environmental racism in Canada. It contributes to initiatives such as Canada's Bill C-226 by prototyping what a data infrastructure for it might look like.
+The npri-tools project contextualizes publicly-available information relevant to addressing environmental racism in Canada. It contributes to initiatives such as Canada's [Bill C-226](https://www.parl.ca/legisinfo/en/bill/44-1/c-226) by prototyping what a data infrastructure for it might look like.
 
 ## Tools
 - `npri-db`: the scripts we use to access and copy NPRI, Stat Can, and other data
